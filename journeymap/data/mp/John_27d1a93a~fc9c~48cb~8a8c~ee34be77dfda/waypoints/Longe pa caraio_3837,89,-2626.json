@@ -1,0 +1,20 @@
+{
+  "id": "Longe pa caraio_3837,89,-2626",
+  "name": "Longe pa caraio",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "x": 3837,
+  "y": 89,
+  "z": -2626,
+  "r": 148,
+  "g": 138,
+  "b": 1,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1
+}

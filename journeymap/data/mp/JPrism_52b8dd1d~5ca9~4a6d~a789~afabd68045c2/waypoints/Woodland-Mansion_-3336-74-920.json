@@ -1,0 +1,22 @@
+{
+  "id": "Woodland-Mansion_-3336-74-920",
+  "name": "Woodland Mansion",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--13508243-waypoint-icon.png",
+  "x": -3336,
+  "y": 74,
+  "z": -920,
+  "r": 49,
+  "g": 225,
+  "b": 109,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Base-Mina_233-16-180",
+  "name": "Base Mina",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--7574869-waypoint-icon.png",
+  "x": 233,
+  "y": 16,
+  "z": 180,
+  "r": 140,
+  "g": 106,
+  "b": 171,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

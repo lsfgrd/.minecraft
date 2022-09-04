@@ -1,0 +1,22 @@
+{
+  "id": "Portal-End_1566-46-220",
+  "name": "Portal End",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--13624068-waypoint-icon.png",
+  "x": 1566,
+  "y": 46,
+  "z": 220,
+  "r": 48,
+  "g": 28,
+  "b": 252,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

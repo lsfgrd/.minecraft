@@ -1,0 +1,22 @@
+{
+  "id": "Ravina_5043-3-106",
+  "name": "Ravina",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--6067100-waypoint-icon.png",
+  "x": 5043,
+  "y": 3,
+  "z": 106,
+  "r": 163,
+  "g": 108,
+  "b": 100,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

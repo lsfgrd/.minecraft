@@ -1,0 +1,22 @@
+{
+  "id": "dimas_210-57-196",
+  "name": "dimas",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--8685163-waypoint-icon.png",
+  "x": 210,
+  "y": -57,
+  "z": 196,
+  "r": 123,
+  "g": 121,
+  "b": 149,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

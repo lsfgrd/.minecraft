@@ -1,0 +1,22 @@
+{
+  "id": "Vila-deserto_5048-77-37",
+  "name": "Vila deserto",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--65997-waypoint-icon.png",
+  "x": 5048,
+  "y": 77,
+  "z": 37,
+  "r": 254,
+  "g": 254,
+  "b": 51,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

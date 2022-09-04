@@ -1,0 +1,22 @@
+{
+  "id": "Blazes_-256-60-1368",
+  "name": "Blazes",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1795514-waypoint-icon.png",
+  "x": -256,
+  "y": 60,
+  "z": 1368,
+  "r": 228,
+  "g": 154,
+  "b": 70,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_nether"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

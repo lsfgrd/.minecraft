@@ -1,0 +1,20 @@
+{
+  "id": "Vila 3_1940,70,-2073",
+  "name": "Vila 3",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "x": 1940,
+  "y": 70,
+  "z": -2073,
+  "r": 111,
+  "g": 232,
+  "b": 32,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1
+}

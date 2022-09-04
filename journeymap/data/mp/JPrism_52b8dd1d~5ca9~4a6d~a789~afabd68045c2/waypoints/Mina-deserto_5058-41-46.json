@@ -1,0 +1,22 @@
+{
+  "id": "Mina-deserto_5058-41-46",
+  "name": "Mina deserto",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--11739472-waypoint-icon.png",
+  "x": 5058,
+  "y": 41,
+  "z": 46,
+  "r": 76,
+  "g": 222,
+  "b": 176,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Vila-nada_-360-69-392",
+  "name": "Vila nada",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1159626-waypoint-icon.png",
+  "x": -360,
+  "y": 69,
+  "z": -392,
+  "r": 238,
+  "g": 78,
+  "b": 54,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Caverna_354-14-125",
+  "name": "Caverna",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16712065-waypoint-icon.png",
+  "x": 354,
+  "y": 14,
+  "z": 125,
+  "r": 0,
+  "g": 254,
+  "b": 127,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

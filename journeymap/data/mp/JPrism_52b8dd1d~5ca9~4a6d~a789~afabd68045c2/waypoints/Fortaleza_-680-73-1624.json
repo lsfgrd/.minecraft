@@ -1,0 +1,22 @@
+{
+  "id": "Fortaleza_-680-73-1624",
+  "name": "Fortaleza",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1775166-waypoint-icon.png",
+  "x": -680,
+  "y": 73,
+  "z": 1624,
+  "r": 228,
+  "g": 233,
+  "b": 194,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_nether"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

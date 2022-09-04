@@ -1,0 +1,20 @@
+{
+  "id": "Portal Nether 2_900,65,-1525",
+  "name": "Portal Nether 2",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "x": 900,
+  "y": 65,
+  "z": -1525,
+  "r": 134,
+  "g": 1,
+  "b": 175,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1
+}
