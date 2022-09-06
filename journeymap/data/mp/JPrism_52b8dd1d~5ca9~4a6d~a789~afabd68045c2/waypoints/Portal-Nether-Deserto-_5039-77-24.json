@@ -1,0 +1,22 @@
+{
+  "id": "Portal-Nether-Deserto-_5039-77-24",
+  "name": "Portal Nether (Deserto)",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--121070-waypoint-icon.png",
+  "x": 5039,
+  "y": 77,
+  "z": 24,
+  "r": 254,
+  "g": 39,
+  "b": 18,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Portal-Casa-_248-53-24",
+  "name": "Portal (Casa)",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--799467-waypoint-icon.png",
+  "x": 248,
+  "y": 53,
+  "z": 24,
+  "r": 243,
+  "g": 205,
+  "b": 21,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_nether"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

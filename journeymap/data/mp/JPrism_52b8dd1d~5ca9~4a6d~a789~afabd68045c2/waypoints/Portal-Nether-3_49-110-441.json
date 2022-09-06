@@ -1,0 +1,22 @@
+{
+  "id": "Portal-Nether-3_49-110-441",
+  "name": "Portal Nether #3",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--194816-waypoint-icon.png",
+  "x": 49,
+  "y": 110,
+  "z": 441,
+  "r": 253,
+  "g": 7,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -13434394,
+  "customIconColor": false
+}
