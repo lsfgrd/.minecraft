@@ -1,0 +1,22 @@
+{
+  "id": "Base-Mina-deserto-longe-_7523-36-1054",
+  "name": "Base/Mina deserto (longe)",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--10213573-waypoint-icon.png",
+  "x": 7523,
+  "y": 36,
+  "z": 1054,
+  "r": 100,
+  "g": 39,
+  "b": 59,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

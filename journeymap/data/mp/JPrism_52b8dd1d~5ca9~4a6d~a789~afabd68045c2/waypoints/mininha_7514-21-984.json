@@ -1,0 +1,22 @@
+{
+  "id": "mininha_7514-21-984",
+  "name": "mininha",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--13922955-waypoint-icon.png",
+  "x": 7514,
+  "y": -21,
+  "z": 984,
+  "r": 43,
+  "g": 141,
+  "b": 117,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

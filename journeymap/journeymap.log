@@ -1,8 +1,8 @@
-[20:06:49] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
-[20:06:49] [Render thread/INFO] [JourneymapClient] initialize ENTER
-[20:06:49] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.8-SNAPSHOT
-[20:06:49] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[20:06:49] [Render thread/INFO] [?] Version: JourneyMap 1.19-5.8.5, built with forge 1.19-41.1.0
+[15:16:51] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[15:16:51] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[15:16:51] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.8-SNAPSHOT
+[15:16:51] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[15:16:51] [Render thread/INFO] [?] Version: JourneyMap 1.19-5.8.5, built with forge 1.19-41.1.0
 forge: 41.0.110
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -14,99 +14,29 @@ Features:
 	MapSurface : singleplayer = true , multiplayer = true
 	MapCaves : singleplayer = true , multiplayer = true
 	MapBiome : singleplayer = true , multiplayer = true
-MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.8.5, zoomLevel=0, compassFontScale=1.0, terrainAlpha=100, showEntityNames=true, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=0.5, showDayNight=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=jm.common.entity_display.dots, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_circle, showSelf=true, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=-84, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_topright, fontScale=1.0, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=true, showVillagers=true, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=0.5, showCaves=true, showMobHeading=true, locationFormatVerbose=true, info1Label=jm.theme.labelsource.blank}
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.8.5, zoomLevel=0, compassFontScale=1.0, terrainAlpha=100, showEntityNames=true, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=0.5, showDayNight=true, showPets=true, preferredMapType=night, showCompass=true, mobDisplay=jm.common.entity_display.dots, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_circle, showSelf=true, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=-84, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_topright, fontScale=1.0, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=true, showVillagers=true, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=0.5, showCaves=true, showMobHeading=true, locationFormatVerbose=true, info1Label=jm.theme.labelsource.blank}
 MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.8.5, zoomLevel=0, compassFontScale=1.0, terrainAlpha=100, showEntityNames=true, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=0.5, showDayNight=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=jm.common.entity_display.dots, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_rectangle, showSelf=true, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=-146, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_topright, fontScale=1.0, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=true, showVillagers=true, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=0.5, showCaves=true, showMobHeading=true, locationFormatVerbose=true, info1Label=jm.theme.labelsource.blank}
-FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.8.5, zoomLevel=0, showPlayers=true, waypointIconScale=1.0, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showPlayerLoc=true, showKeys=true, playerDisplayScale=0.5, showMobs=true, showPets=true, waypointLabelScale=1.0, preferredMapType=day, mobDisplay=jm.common.entity_display.dots, showSelf=true, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=0.5, selfDisplayScale=1.0, showGrid=true, showMouseLoc=true, showWaypoints=true, showCaves=true, showAnimals=true, dragScale=1, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, fontScale=1.0}
+FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.8.5, zoomLevel=0, showPlayers=true, waypointIconScale=1.0, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showPlayerLoc=true, showKeys=true, playerDisplayScale=0.5, showMobs=true, showPets=true, waypointLabelScale=1.0, preferredMapType=night, mobDisplay=jm.common.entity_display.dots, showSelf=true, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=0.5, selfDisplayScale=1.0, showGrid=true, showMouseLoc=true, showWaypoints=true, showCaves=true, showAnimals=true, dragScale=1, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, fontScale=1.0}
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.8.5, autoRemoveDeathpointDistance=2, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, fullscreenDoubleClickToCreate=true, managerDimensionFocus=false, minDistance=4, boldLabel=false, textureSmall=true, showDeathpointlabel=true, beaconEnabled=true, createDeathpoints=true, showName=true, disableStrikeThrough=false, maxDistance=0, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, shaderBeacon=false, timeFormat=HH:mm:ss, showDeviationLabel=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, showTexture=true, managerEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.8.5, port=8080, enabled=false}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.8.5, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, optionsManagerViewed=5.8.5, announceMod=true, colorPassive=#bbbbbb, mapBlendWater=false, renderDistanceSurfaceMax=0, seedId=false, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=jm.minimap.shape_circle, mapBiome=true, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, mapBlendFoliage=true, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=false, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.8.5, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, glErrorChecking=false, autoMapPoll=2000}
-[20:06:49] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 447.66ms
-[20:06:53] [Render thread/INFO] [JourneymapClient] Journeymap PostInit
-[20:06:53] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
-[20:06:53] [Render thread/INFO] [JourneymapClient] OptiFine detected.
-[20:06:53] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 280.2ms
-[20:08:19] [Netty Epoll Client IO #0/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
-[20:08:21] [Render thread/INFO] [JourneymapClient] World UID is set to: 52b8dd1d-5ca9-4a6d-a789-afabd68045c2
-[20:08:23] [Render thread/INFO] [WaypointStore] Loaded 21 waypoints from /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/waypoints
-[20:08:23] [Render thread/INFO] [JourneymapClient] Mapping started in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/overworld. Memory: 1280MB total, 689MB free 
-[20:08:23] [Render thread/INFO] [ChatLog] JourneyMap: Press [J]
-[20:27:16] [Render thread/INFO] [JourneymapClient] Mapping halted in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/minecraft:overworld
-[20:27:16] [Render thread/WARN] [ColorPalette] Existing color palette's resource packs no longer match current loadout.
-[20:27:16] [Render thread/INFO] [ColorPalette] WAS: Upload_20210408-215847.zip:zip, jxzhn_made.zip:zip
+[15:16:52] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 690.6ms
+[15:17:02] [Render thread/INFO] [JourneymapClient] Journeymap PostInit
+[15:17:02] [Render thread/ERROR] [FileHandler] Couldn't locate icons for flat: /Users/lauro.figueiredo/Library/Application%20Support/minecraft/mods/journeymap-1.19-5.8.5-forge.jar/assets/journeymap/theme/flat
+[15:17:02] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[15:17:02] [Render thread/INFO] [JourneymapClient] OptiFine detected.
+[15:17:02] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 336.82ms
+[15:17:19] [Netty Client IO #2/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[15:17:22] [Render thread/INFO] [JourneymapClient] World UID is set to: 52b8dd1d-5ca9-4a6d-a789-afabd68045c2
+[15:17:26] [Render thread/INFO] [WaypointStore] Loaded 17 waypoints from /Users/lauro.figueiredo/Library/Application Support/minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/waypoints
+[15:17:26] [Render thread/INFO] [JourneymapClient] Mapping started in /Users/lauro.figueiredo/Library/Application Support/minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/overworld. Memory: 1408MB total, 621MB free 
+[15:17:26] [Render thread/INFO] [ChatLog] JourneyMap: Press [J]
+[15:20:26] [Render thread/INFO] [StateTickHandler] PirataBi died at BlockPos{x=-593, y=95, z=570}. Deathpoints enabled: true. Deathpoint created: true
+[15:50:28] [Render thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[15:50:29] [Render thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[16:07:38] [Render thread/INFO] [JourneymapClient] Mapping halted in /Users/lauro.figueiredo/Library/Application Support/minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/minecraft:overworld
+[16:07:38] [Render thread/WARN] [ColorPalette] Existing color palette's resource packs no longer match current loadout.
+[16:07:38] [Render thread/INFO] [ColorPalette] WAS: Upload_20210408-215847.zip:zip, jxzhn_made.zip:zip
 NOW: Default, Mod Resources, Programmer Art, Quark Programmer Art.zip, VanillaTweaks_r576924.zip, no-pumpkin-blur.zip, quark-emote-pack
-[20:27:18] [Render thread/INFO] [WaypointStore] Loaded 21 waypoints from /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/waypoints
-[20:27:18] [Render thread/INFO] [JourneymapClient] Mapping started in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/the_nether. Memory: 1376MB total, 303MB free 
-[20:30:33] [Render thread/INFO] [JourneymapClient] Mapping halted in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/minecraft:the_nether
-[20:30:33] [Render thread/WARN] [ColorPalette] Existing color palette's resource packs no longer match current loadout.
-[20:30:33] [Render thread/INFO] [ColorPalette] WAS: Upload_20210408-215847.zip:zip, jxzhn_made.zip:zip
-NOW: Default, Mod Resources, Programmer Art, Quark Programmer Art.zip, VanillaTweaks_r576924.zip, no-pumpkin-blur.zip, quark-emote-pack
-[20:30:35] [Render thread/INFO] [WaypointStore] Loaded 21 waypoints from /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/waypoints
-[20:30:35] [Render thread/INFO] [JourneymapClient] Mapping started in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/overworld. Memory: 1376MB total, 307MB free 
-[20:35:14] [Render thread/INFO] [JourneymapClient] Mapping halted in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/minecraft:overworld
-[20:35:14] [Render thread/WARN] [ColorPalette] Existing color palette's resource packs no longer match current loadout.
-[20:35:14] [Render thread/INFO] [ColorPalette] WAS: Upload_20210408-215847.zip:zip, jxzhn_made.zip:zip
-NOW: Default, Mod Resources, Programmer Art, Quark Programmer Art.zip, VanillaTweaks_r576924.zip, no-pumpkin-blur.zip, quark-emote-pack
-[20:35:15] [Render thread/INFO] [WaypointStore] Loaded 22 waypoints from /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/waypoints
-[20:35:15] [Render thread/INFO] [JourneymapClient] Mapping started in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/the_nether. Memory: 2208MB total, 756MB free 
-[20:37:09] [Render thread/INFO] [JourneymapClient] Mapping halted in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/minecraft:the_nether
-[20:37:09] [Render thread/WARN] [ColorPalette] Existing color palette's resource packs no longer match current loadout.
-[20:37:09] [Render thread/INFO] [ColorPalette] WAS: Upload_20210408-215847.zip:zip, jxzhn_made.zip:zip
-NOW: Default, Mod Resources, Programmer Art, Quark Programmer Art.zip, VanillaTweaks_r576924.zip, no-pumpkin-blur.zip, quark-emote-pack
-[20:37:11] [Render thread/INFO] [WaypointStore] Loaded 22 waypoints from /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/waypoints
-[20:37:11] [Render thread/INFO] [JourneymapClient] Mapping started in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/overworld. Memory: 2208MB total, 1406MB free 
-[20:41:14] [Render thread/INFO] [JourneymapClient] Mapping halted in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/minecraft:overworld
-[20:41:14] [Render thread/WARN] [ColorPalette] Existing color palette's resource packs no longer match current loadout.
-[20:41:14] [Render thread/INFO] [ColorPalette] WAS: Upload_20210408-215847.zip:zip, jxzhn_made.zip:zip
-NOW: Default, Mod Resources, Programmer Art, Quark Programmer Art.zip, VanillaTweaks_r576924.zip, no-pumpkin-blur.zip, quark-emote-pack
-[20:41:16] [Render thread/INFO] [WaypointStore] Loaded 23 waypoints from /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/waypoints
-[20:41:16] [Render thread/INFO] [JourneymapClient] Mapping started in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/the_nether. Memory: 2208MB total, 1068MB free 
-[20:47:19] [Render thread/INFO] [StateTickHandler] PirataBi died at BlockPos{x=686, y=73, z=89}. Deathpoints enabled: true. Deathpoint created: true
-[20:47:20] [Render thread/INFO] [JourneymapClient] Mapping halted in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/minecraft:the_nether
-[20:47:20] [Render thread/WARN] [ColorPalette] Existing color palette's resource packs no longer match current loadout.
-[20:47:20] [Render thread/INFO] [ColorPalette] WAS: Upload_20210408-215847.zip:zip, jxzhn_made.zip:zip
-NOW: Default, Mod Resources, Programmer Art, Quark Programmer Art.zip, VanillaTweaks_r576924.zip, no-pumpkin-blur.zip, quark-emote-pack
-[20:47:22] [Render thread/INFO] [WaypointStore] Loaded 24 waypoints from /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/waypoints
-[20:47:22] [Render thread/INFO] [JourneymapClient] Mapping started in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/overworld. Memory: 2208MB total, 998MB free 
-[20:47:44] [Render thread/INFO] [JourneymapClient] Mapping halted in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/minecraft:overworld
-[20:47:44] [Render thread/WARN] [ColorPalette] Existing color palette's resource packs no longer match current loadout.
-[20:47:44] [Render thread/INFO] [ColorPalette] WAS: Upload_20210408-215847.zip:zip, jxzhn_made.zip:zip
-NOW: Default, Mod Resources, Programmer Art, Quark Programmer Art.zip, VanillaTweaks_r576924.zip, no-pumpkin-blur.zip, quark-emote-pack
-[20:47:46] [Render thread/INFO] [WaypointStore] Loaded 24 waypoints from /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/waypoints
-[20:47:46] [Render thread/INFO] [JourneymapClient] Mapping started in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/the_nether. Memory: 2208MB total, 1310MB free 
-[20:58:51] [Render thread/INFO] [JourneymapClient] Mapping halted in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/minecraft:the_nether
-[20:58:51] [Render thread/WARN] [ColorPalette] Existing color palette's resource packs no longer match current loadout.
-[20:58:51] [Render thread/INFO] [ColorPalette] WAS: Upload_20210408-215847.zip:zip, jxzhn_made.zip:zip
-NOW: Default, Mod Resources, Programmer Art, Quark Programmer Art.zip, VanillaTweaks_r576924.zip, no-pumpkin-blur.zip, quark-emote-pack
-[20:58:53] [Render thread/INFO] [WaypointStore] Loaded 19 waypoints from /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/waypoints
-[20:58:53] [Render thread/INFO] [JourneymapClient] Mapping started in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/overworld. Memory: 2208MB total, 605MB free 
-[21:09:53] [Render thread/INFO] [JourneymapClient] Mapping halted in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/minecraft:overworld
-[21:09:53] [Render thread/WARN] [ColorPalette] Existing color palette's resource packs no longer match current loadout.
-[21:09:53] [Render thread/INFO] [ColorPalette] WAS: Upload_20210408-215847.zip:zip, jxzhn_made.zip:zip
-NOW: Default, Mod Resources, Programmer Art, Quark Programmer Art.zip, VanillaTweaks_r576924.zip, no-pumpkin-blur.zip, quark-emote-pack
-[21:09:54] [Render thread/INFO] [WaypointStore] Loaded 19 waypoints from /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/waypoints
-[21:09:54] [Render thread/INFO] [JourneymapClient] Mapping started in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/the_nether. Memory: 2208MB total, 1129MB free 
-[21:23:32] [Render thread/INFO] [JourneymapClient] Mapping halted in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/minecraft:the_nether
-[21:23:32] [Render thread/WARN] [ColorPalette] Existing color palette's resource packs no longer match current loadout.
-[21:23:32] [Render thread/INFO] [ColorPalette] WAS: Upload_20210408-215847.zip:zip, jxzhn_made.zip:zip
-NOW: Default, Mod Resources, Programmer Art, Quark Programmer Art.zip, VanillaTweaks_r576924.zip, no-pumpkin-blur.zip, quark-emote-pack
-[21:23:33] [Render thread/INFO] [WaypointStore] Loaded 19 waypoints from /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/waypoints
-[21:23:33] [Render thread/INFO] [JourneymapClient] Mapping started in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/overworld. Memory: 2208MB total, 687MB free 
-[21:29:06] [Render thread/INFO] [JourneymapClient] Mapping halted in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/minecraft:overworld
-[21:29:06] [Render thread/WARN] [ColorPalette] Existing color palette's resource packs no longer match current loadout.
-[21:29:06] [Render thread/INFO] [ColorPalette] WAS: Upload_20210408-215847.zip:zip, jxzhn_made.zip:zip
-NOW: Default, Mod Resources, Programmer Art, Quark Programmer Art.zip, VanillaTweaks_r576924.zip, no-pumpkin-blur.zip, quark-emote-pack
-[21:29:07] [Render thread/INFO] [WaypointStore] Loaded 19 waypoints from /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/waypoints
-[21:29:07] [Render thread/INFO] [JourneymapClient] Mapping started in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/the_nether. Memory: 2208MB total, 654MB free 
-[21:34:58] [Render thread/INFO] [JourneymapClient] Mapping halted in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/minecraft:the_nether
-[21:34:58] [Render thread/WARN] [ColorPalette] Existing color palette's resource packs no longer match current loadout.
-[21:34:58] [Render thread/INFO] [ColorPalette] WAS: Upload_20210408-215847.zip:zip, jxzhn_made.zip:zip
-NOW: Default, Mod Resources, Programmer Art, Quark Programmer Art.zip, VanillaTweaks_r576924.zip, no-pumpkin-blur.zip, quark-emote-pack
-[21:34:59] [Render thread/INFO] [WaypointStore] Loaded 20 waypoints from /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/waypoints
-[21:34:59] [Render thread/INFO] [JourneymapClient] Mapping started in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/overworld. Memory: 2208MB total, 698MB free 
-[21:44:20] [Render thread/INFO] [JourneymapClient] Mapping halted in /home/captain/.minecraft/journeymap/data/mp/JPrism_52b8dd1d~5ca9~4a6d~a789~afabd68045c2/minecraft:overworld
-[21:44:20] [Render thread/WARN] [ColorPalette] Existing color palette's resource packs no longer match current loadout.
-[21:44:20] [Render thread/INFO] [ColorPalette] WAS: Upload_20210408-215847.zip:zip, jxzhn_made.zip:zip
-NOW: Default, Mod Resources, Programmer Art, Quark Programmer Art.zip, VanillaTweaks_r576924.zip, no-pumpkin-blur.zip, quark-emote-pack
-[21:44:20] [JM-task-44/WARN] [TaskBatch] TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@63ef4d0f
-[21:44:21] [Render thread/INFO] [MappingMonitorTask] World ID has been reset.
-[21:44:21] [Render thread/INFO] [JourneymapClient] World UID is set to: null
+[16:07:39] [Render thread/INFO] [MappingMonitorTask] World ID has been reset.
+[16:07:39] [Render thread/INFO] [JourneymapClient] World UID is set to: null

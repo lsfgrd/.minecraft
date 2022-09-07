@@ -1,0 +1,22 @@
+{
+  "id": "Spawner-exposto_7483-63-1122",
+  "name": "Spawner exposto",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1417733-waypoint-icon.png",
+  "x": 7483,
+  "y": 63,
+  "z": 1122,
+  "r": 234,
+  "g": 93,
+  "b": 251,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
