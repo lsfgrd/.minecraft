@@ -1,0 +1,22 @@
+{
+  "id": "cavalim_7481-83-2053",
+  "name": "cavalim",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--15652252-waypoint-icon.png",
+  "x": 7481,
+  "y": 83,
+  "z": 2053,
+  "r": 17,
+  "g": 42,
+  "b": 100,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
